@@ -1,0 +1,7 @@
+C:\Users\laura.olaru\Documents\UiPath\AuthorProjects\MergeXamls\InternalLabs.MultipleXMLMerging\Output\InternalLabs.MultipleXMLMerging.Activities.Design.dll
+C:\Users\laura.olaru\Documents\UiPath\AuthorProjects\MergeXamls\InternalLabs.MultipleXMLMerging\Output\InternalLabs.MultipleXMLMerging.Activities.Design.pdb
+C:\Users\laura.olaru\Documents\UiPath\AuthorProjects\MergeXamls\InternalLabs.MultipleXMLMerging\Output\InternalLabs.MultipleXMLMerging.Activities.dll
+C:\Users\laura.olaru\Documents\UiPath\AuthorProjects\MergeXamls\InternalLabs.MultipleXMLMerging\Output\InternalLabs.MultipleXMLMerging.Activities.pdb
+C:\Users\laura.olaru\Documents\UiPath\AuthorProjects\MergeXamls\InternalLabs.MultipleXMLMerging\Output\InternalLabs.MultipleXMLMerging.Activities.xml
+C:\Users\laura.olaru\Documents\UiPath\AuthorProjects\MergeXamls\InternalLabs.MultipleXMLMerging\Output\InternalLabs.MultipleXMLMerging.Activities.Design.xml
+C:\Users\laura.olaru\Documents\UiPath\AuthorProjects\MergeXamls\InternalLabs.MultipleXMLMerging\Output\InternalLabs.MultipleXMLMerging.Activities.Design.deps.json
